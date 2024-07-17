@@ -3,7 +3,7 @@ from dataclasses import dataclass, field, asdict
 from typing import List, Optional
 
 
-TASKS = ("2d_relations", "3d_relations", "rotation")
+TASKS = ("2d_relations", "3d_relations", "rotation", "occlusion", "viewpoint")
 
 
 @dataclass
