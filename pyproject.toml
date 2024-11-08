@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "spatial-vqa-bench"
-version = "0.1.0"
+version = "0.2.0"
 description = "Benchmark of spatial visual reasoning for multimodal LLMs"
 authors = [{name = "Boyang Ma"}]
 readme = "README.md"
