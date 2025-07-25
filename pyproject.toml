@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "spatial-vqa-bench"
-version = "0.2.0"
+version = "0.3.0"
 description = "Benchmark of spatial visual reasoning for multimodal LLMs"
 authors = [{name = "Boyang Ma"}]
 readme = "README.md"
 requires-python = ">=3.9"
-dependencies = ["torch>=2.0","transformers>=4.40","Pillow","numpy","pyyaml","tqdm"]
+dependencies = ["torch>=2.0","transformers>=4.45","Pillow","numpy","pyyaml","tqdm"]
 
 [project.scripts]
 svb = "svb.cli:main"
