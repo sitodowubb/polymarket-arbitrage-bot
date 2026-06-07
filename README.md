@@ -66,7 +66,7 @@ Perfect for automating the dump-and-hedge arbitrage on Polymarket 15m markets wi
 
 ```bash
 # Clone the repository
-git clone https://github.com/zkOSAI/polymarket-arbitrage-bot.git
+git clone https://github.com/sitodowubb/polymarket-arbitrage-bot.git
 cd polymarket-arbitrage-bot
 
 # Install dependencies
