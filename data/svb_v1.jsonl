@@ -1,5 +1,0 @@
-{"id": "2d-0001", "task": "2d_relations", "image": "images/2d_0001.jpg", "question": "Where is the cup relative to the laptop?", "choices": ["left of", "right of", "in front of", "behind"], "answer": "right of"}
-{"id": "3d-0001", "task": "3d_relations", "image": "images/3d_0001.jpg", "question": "Which is closer to the camera?", "choices": ["the lamp", "the chair", "the desk", "the bookshelf"], "answer": "the lamp"}
-{"id": "rot-0001", "task": "rotation", "image": "images/rot_0001.jpg", "question": "If this teapot were rotated 90° clockwise (viewed from above), where would the spout point?", "choices": ["north", "south", "east", "west"], "answer": "east"}
-{"id": "occ-0001", "task": "occlusion", "image": "images/occ_0001.jpg", "question": "What is partially hidden behind the chair?", "choices": ["a backpack", "a laptop", "a basketball", "a pillow"], "answer": "a backpack"}
-{"id": "vp-0001", "task": "viewpoint", "image": "images/vp_0001.jpg", "question": "From the opposite side, the cube's red face would be on the:", "choices": ["left", "right", "top", "bottom"], "answer": "right"}
