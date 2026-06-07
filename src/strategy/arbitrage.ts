@@ -1,6 +1,6 @@
 import { ClobClient, OrderType, Side } from "@polymarket/clob-client";
 import type { AppConfig } from "../types";
-import Big from 'big.js';
+import Big from 'big.js'; 
 type Trend = "UPTREND" | "DOWNTREND" | "NEUTRAL";
 type PositionSide = "yes" | "no";
 
